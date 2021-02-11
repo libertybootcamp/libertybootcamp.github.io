@@ -1,0 +1,28 @@
+/*!
+ * Start Bootstrap - Business Frontpage (https://startbootstrap.com/template/business-frontpage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.bg-white {
+background: linear-gradient(to bottom, rgba(300, 300, 300, 0.8) 0%, rgba(197, 243, 210, 0.8) 100%) ;
+background-image: : url("image/1.jpg");
+z-index: 50px;
+}
+
+.bg-clear {
+background: linear-gradient(to bottom, rgba(300, 300, 300, 0.8) 0%, rgba(300, 300, 300, 0.8) 100%) ;	
+}
+
+.btn-primary {
+background: linear-gradient(to bottom, rgba(300, 300, 300, 0.8) 0%, rgba(300, 300, 300, 0.8) 100%) ;		
+}
+
+#bg-pic {
+
+background-image: url("image/1.jpg");
+
+}
